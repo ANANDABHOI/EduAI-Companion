@@ -1,0 +1,6 @@
+student_id,math_score,science_score,english_score,attendance_rate
+101,78,85,80,0.92
+102,60,55,68,0.70
+103,90,95,92,0.98
+104,45,50,40,0.60
+105,70,72,75,0.88
