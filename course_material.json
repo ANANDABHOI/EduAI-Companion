@@ -1,0 +1,14 @@
+{
+"0": {
+"level": "Advanced",
+"recommended_topics": ["Project-based learning", "Capstone project", "AI & ML", "Research Skills"]
+},
+"1": {
+"level": "Intermediate",
+"recommended_topics": ["Algebra II", "Physics", "Creative Writing", "Critical Thinking"]
+},
+"2": {
+"level": "Beginner",
+"recommended_topics": ["Basic Arithmetic", "Intro to Science", "Reading Comprehension", "Time Management"]
+}
+}
