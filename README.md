@@ -1,4 +1,4 @@
-# EduAI-Companion
+# EduAI-Companion:- Integrated AI-Powered Learning Platform
 
 EduAI Companion is an AI-powered education platform designed to make learning smarter, easier, and more personalized. It leverages Machine Learning and AI to provide tailored study support, continuous tutoring, and secure assessment solutions.
 
